@@ -1,0 +1,15 @@
+D:\projects\C#\калькуляторWPF\калькуляторWPF\bin\Debug\калькуляторWPF.exe.config
+D:\projects\C#\калькуляторWPF\калькуляторWPF\bin\Debug\калькуляторWPF.exe
+D:\projects\C#\калькуляторWPF\калькуляторWPF\bin\Debug\калькуляторWPF.pdb
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.csproj.AssemblyReference.cache
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\MainWindow.g.cs
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\App.g.cs
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF_MarkupCompile.cache
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF_MarkupCompile.lref
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\MainWindow.baml
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.g.resources
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.Properties.Resources.resources
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.csproj.GenerateResource.cache
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.csproj.CoreCompileInputs.cache
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.exe
+D:\projects\C#\калькуляторWPF\калькуляторWPF\obj\Debug\калькуляторWPF.pdb
